@@ -1,3 +1,2 @@
- print("helloy world!!!");
- print("helloy");
- 
+print(helloy world!!!);
+print("Helloy my dear frend")
